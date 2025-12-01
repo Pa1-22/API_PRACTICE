@@ -1,0 +1,5 @@
+i am python
+java is hard
+python is easy
+python is simple
+
